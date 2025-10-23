@@ -52,8 +52,8 @@ while True: # Start an infinite loop so the calculator keeps running until user 
 
     except ValueError:
         print("Invalid input. Please enter numeric values only.")
-        
-        # Intitial code
+
+        # Initial code
 # print("Choose an operation:")
 # print("1 - Add")
 # print("2 - Substract")
